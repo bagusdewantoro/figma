@@ -1,0 +1,12 @@
+/* Rectangle 2 */
+
+
+position: absolute;
+width: 118.61px;
+height: 123.33px;
+left: calc(50% - 118.61px/2 - 570.96px);
+top: calc(50% - 123.33px/2 - 363.67px);
+
+background: #000000;
+box-shadow: -12px 17px 15px rgba(190, 186, 186, 0.72);
+border-radius: 50px;
